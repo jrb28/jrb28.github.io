@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This site contains examples of my analytics projects and materials I have created for my analytics courses.  Follow the links below for detailed descriptions.
+Follow the links below to see examples of my analytics projects and materials I have created for my analytics courses.
 
 - [Time Series Decomposition](./projectTemplate.md)
 - [Python List Comprehension](./projectTemplate.md)
