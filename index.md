@@ -4,7 +4,7 @@ layout: default
 
 Follow the links below to see examples of my analytics projects and materials I have created for my analytics courses.
 
-- [Time Series Decomposition](./projectTemplate.md)
+- [Time Series Decomposition](./TimeSeries/index.md)
 - [Python List Comprehension](./projectTemplate.md)
 - Another bullet point
 
