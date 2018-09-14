@@ -1,8 +1,10 @@
 ---
-title: time Series Decomposition
+title: Time Series Decomposition
 description: Jim Bradley's Analytics Web Site
 ---
-This page links to some great examples of list comprehension using Python
+This Jupyter notebook shows a basic time series decomposition aimed at understanding teh basic components one might find in such time series data.
 
-link1
-link2
+- [Jupyter Notebook (html format)](./TimeSeriesDecompositionStart.html)
+- [Jupyter Notebook (.ipynb format)](./TimeSeriesDecompositionStart.ipynb)
+
+
