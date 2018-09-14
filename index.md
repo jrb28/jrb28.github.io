@@ -6,6 +6,7 @@ This site contains descriptions of some of the analytics projects I have done, a
 
 - [Time Series Decomposition](./projectTemplate.md)
 - [Python List Comprehension](./projectTemplate.md)
+- Another bullet point
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
