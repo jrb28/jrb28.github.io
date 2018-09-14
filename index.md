@@ -4,8 +4,8 @@ layout: default
 
 This site contains descriptions of some of the analytics projects I have done.  Brief descriptions follow below, while more details are avaialble on the landing page for each project.
 
-- [Time Series Decomposition](projectTemplate.md)
-- [Python List Comprehension](projectTemplate.md)
+- [Time Series Decomposition](./projectTemplate.md)
+- [Python List Comprehension](./projectTemplate.md)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
