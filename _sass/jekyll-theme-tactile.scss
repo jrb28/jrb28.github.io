@@ -316,13 +316,17 @@ ul li {
   margin-left: 35px;
 }
 
-/* ul li a:link{
-  color: #0000FF;
-}*/
-
-#related_links ul li a {
+ul li a:link{
   color: #0000FF;
 }
+
+ul li a:visited{
+  color: #FF0000;
+}
+
+/*#related_links ul li a {
+  color: #0000FF;
+}*/
 
 ul li a{
   color: #303030;
