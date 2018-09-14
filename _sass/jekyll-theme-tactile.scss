@@ -245,36 +245,37 @@ form {
 
 h1 {
   font-size: 32px;
+  color: #101010;
 }
 
 h2 {
   margin-bottom: 8px;
   font-size: 22px;
   font-weight: bold;
-  color: #303030;
+  color: #202020;
 }
 
 h3 {
   margin-bottom: 8px;
   font-size: 18px;
   font-weight: bold;
-  color: #d5000d;
+  color: #303030;   /* #d5000d; */
 }
 
 h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #303030;
+  color: #404040;
 }
 
 h5 {
   font-size: 1em;
-  color: #303030;
+  color: #454545;
 }
 
 h6 {
   font-size: .8em;
-  color: #303030;
+  color: #505050;
 }
 
 p {
@@ -284,6 +285,11 @@ p {
 
 a {
   text-decoration: none;
+  color: #303030
+}
+
+a:link {
+       color: #0000FF;
 }
 
 p a {
