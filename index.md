@@ -2,6 +2,8 @@
 layout: default
 ---
 
+This site contains descriptions of some of the analytics projects I have done.  Brief descriptions follow below, while more details are avaialble on the landing page for each project.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
