@@ -1,6 +1,7 @@
 ---
 title: Python List Comprehension
 description: Jim Bradley's Analytics Web Site
+permalink: /
 ---
 
 This page links to some great examples of list comprehension using Python
