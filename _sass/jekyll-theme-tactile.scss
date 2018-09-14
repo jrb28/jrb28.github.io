@@ -301,13 +301,14 @@ ul li {
   list-style-position: inside;
   list-style: disc;
   padding-left: 12px;
-  text-indent: 30px;
+  margin-left: 35px;
 }
 
 ol li {
   list-style-position: inside;
   list-style: decimal;
   padding-left: 3px;
+  margin-left: 35px;
 }
 
 dl dt {
