@@ -65,6 +65,12 @@ a {
 a:hover {
   color: #d5000d;  /* #c5000c */
 }
+a:link {
+  color: #0000FF;  /* #c5000c */
+}
+a:visited {
+  color: #800080;  /* #c5000c */
+}
 
 header {
   padding-top: 35px;
