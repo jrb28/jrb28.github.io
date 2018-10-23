@@ -1,6 +1,6 @@
 ---
-title: Cell Tower Optimization
-description: Jim Bradley's Analytics Page
+title: Jim Bradley's Analytics Page
+description: Cell Tower Optimization
 ---
 
 - [Solution Map](solution.jpg)
