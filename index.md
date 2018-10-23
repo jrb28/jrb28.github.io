@@ -6,7 +6,7 @@ Follow the links below to see examples of my analytics projects and materials I 
 
 - [Time Series Decomposition](./timeseries/index.md)
 - [Python List Comprehension](./projectTemplate.md)
-- Another bullet point
+- [Cell Tower Optimization Repository](./cellTower/)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
