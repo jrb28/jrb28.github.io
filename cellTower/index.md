@@ -1,5 +1,5 @@
 ---
-title: Jim Bradley's Analytics Page
+title: Jim Bradley's Analytics
 description: Cell Tower Optimization
 ---
 
