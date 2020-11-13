@@ -1,5 +1,5 @@
-title: Jim Bradley
-description: Analytics Web Site
-show_downloads: false
+title: Tactile theme
+description: Tactile is a theme for GitHub Pages.
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-tactile
