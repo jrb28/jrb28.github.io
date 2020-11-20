@@ -3,7 +3,7 @@ layout: default
 title: My Personal Website
 ---
 
-![James Bradley](BradleyJim.jpg){:height="50%" width="50%"}
+![James Bradley](BradleyJim.jpg){:height="30%" width="30%"}
 
 These are examples of the analytics work I have done:
 
